@@ -9,3 +9,5 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Dataset 
 The dataset is taken from kaggle 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+## Fingings
+## Conclusion
