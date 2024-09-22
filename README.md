@@ -1,4 +1,4 @@
-# Netflix Movie and TV shows Data Analysis using Postgresql
+# Netflix Movie and TV shows Data Analysis using PostgreSQL
 ## Overview 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The Netflix dataset provides a rich repository of information on movies and TV shows available on the platform, encompassing a wide range of genres, ratings, and viewer preferences.
 ## Objective
@@ -8,7 +8,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explore and categorize content based on specific criteria and keywords.
 ## Build With
  ### Sql Language
- - Postgresql
+ - PostgreSQL
   ### Tool
   -  PgAdmin 4
   
